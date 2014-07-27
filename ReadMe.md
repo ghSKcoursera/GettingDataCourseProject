@@ -1,4 +1,4 @@
-## How to Use the Script, run_analysis.R
+## ReadMe for Supporting the run_analysis.R Program
 
 Important: Make sure the files have been downloaded and extracted and that your working directory is set to that location (ReadMe.txt is in that directory)
 
@@ -18,7 +18,7 @@ For additional detail on the original datasets, please refer to the Getting & Cl
 * ReadMe.txt			contains details about these original files and datasets
 
 ## Generated Dataset:
-* Step5TidyData.txt		contains the averages for each subject by activity that can be opened as a tab-delimited text file
+Step5TidyData.txt		contains the averages for each subject by activity and can be opened or read as a tab-delimited text file
 
 ## Code Book:
 * CodeBook.md			contains all newly generated variable names
