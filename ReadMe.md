@@ -1,8 +1,9 @@
-## ReadMe for Supporting the run_analysis.R Program
+## ReadMe for run_analysis.R
 
 Important: Make sure the files have been downloaded and extracted and that your working directory is set to that location (ReadMe.txt is in that directory)
 
-## Original Course Project Instructions:
+## Original Course Project Instructions
+
 * Getting & Cleaning Data Course Project Instructions.md contains the instructions as well as the links to the original dataset instructions, downloads, and project details
 
 ## Original Data (not kept in the repository, but crucial to the program):
@@ -17,10 +18,12 @@ For additional detail on the original datasets, please refer to the Getting & Cl
 * features.txt			contains a list of the measurements that will be used as column headers		
 * ReadMe.txt			contains details about these original files and datasets
 
-## Generated Dataset:
+## Generated Dataset
+
 Step5TidyData.txt		contains the averages for each subject by activity and can be opened or read as a tab-delimited text file
 
-## Code Book:
+## Code Book
+
 * CodeBook.md			contains all newly generated variable names
 
 ## How the Script Works
