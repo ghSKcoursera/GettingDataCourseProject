@@ -35,7 +35,7 @@ colnames(subjectsTable) <- "subjectID"
 # Read in the features listings for use as column headings for measurements data
 featuresTable <- read.table("./features.txt")
 colnames(measurementsTable) <- featuresTable[, 2]
-# Extract only the mean() and standard deviation std() data from the measurements (Step 2 in the Course Project Instructions)
+# Extract only the mean and standard deviation std data from the measurements (Step 2 in the Course Project Instructions)
 measurementMeanSTDColums <- grepl("mean()",colnames(measurementsTable)) | grepl("std()",colnames(measurementsTable))
 measurementsTable <- measurementsTable[, measurementMeanSTDColums]
 # Read in the activity labels listings and replace numeric representations in activities data using 'V1' as 'id' (Step 3 in the Course Project Instructions)

@@ -3,9 +3,10 @@
 Important: Make sure the files have been downloaded and extracted and that your working directory is set to that location (ReadMe.txt is in that directory)
 
 ## Original Course Project Instructions:
-* Getting & Cleaning Data Course Project Instructions.md
+* Getting & Cleaning Data Course Project Instructions.md contains the instructions as well as the links to the original dataset instructions, downloads, and project details
 
-## Original Data:
+## Original Data (not kept in the repository, but crucial to the program):
+For additional detail on the original datasets, please refer to the Getting & Cleaning Data Course Project Instructions.md file in the repository
 * subject_test.txt		contains the subject index into the measurements of the 'test' group (x_test.txt and y_test.txt)
 * x_test.txt 			contains the measurements of the 'test' group
 * y_test.txt			contains the activities performed in the measurements of the 'test' group 
@@ -13,8 +14,8 @@ Important: Make sure the files have been downloaded and extracted and that your 
 * x_train.txt 			contains the measurements of the 'train' group
 * y_train.txt			contains the activities performed in the measurements of the 'train' group 
 * activity_labels.txt	contains the labels for the numeric activities in the y_test.txt and y_train.txt files
-* features.txt			
-* ReadMe.txt
+* features.txt			contains a list of the measurements that will be used as column headers		
+* ReadMe.txt			contains details about these original files and datasets
 
 ## Generated Dataset:
 * Step5TidyData.txt		contains the averages for each subject by activity that can be opened as a tab-delimited text file
